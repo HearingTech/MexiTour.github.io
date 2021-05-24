@@ -1,6 +1,6 @@
 "use strict";
-var forma = document.getElementById("forma"),
-    salidaNombre = document.getElementById("salidaNombre"),
+var forma = document.getElementById("forma");
+var salidaNombre = document.getElementById("salidaNombre"),
     salidaBoleta = document.getElementById("salidaBoleta"),
     salidaGrupo = document.getElementById("salidaGrupo"),
     salidaMateria = document.getElementById("salidaMateria"),
