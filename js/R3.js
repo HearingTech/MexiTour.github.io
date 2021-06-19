@@ -70,7 +70,7 @@ obs();
 
 // Initialize Cloud Firestore through Firebase
 firebase.initializeApp({    
-    apiKey: "AIzaSyCTDRVAbSZyWrckuGPXG9teXLNG7jUmBTo",
-    authDomain: "basepha-2021.firebaseapp.com",
-    projectId: "basepha-2021",
+    apiKey: "AIzaSyAHlj_tn8i8m-xTFCGcOKazDQEgFLkzlTo",
+    authDomain: "fir-1502.firebaseapp.com",
+    projectId: "fir-1502",
 });
